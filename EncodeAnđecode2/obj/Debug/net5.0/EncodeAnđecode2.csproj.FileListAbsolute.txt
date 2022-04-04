@@ -1,0 +1,16 @@
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.exe
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.deps.json
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.runtimeconfig.json
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.runtimeconfig.dev.json
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.dll
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\ref\EncodeAnđecode2.dll
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\bin\Debug\net5.0\EncodeAnđecode2.pdb
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.csproj.AssemblyReference.cache
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.AssemblyInfoInputs.cache
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.AssemblyInfo.cs
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.csproj.CoreCompileInputs.cache
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.dll
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\ref\EncodeAnđecode2.dll
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.pdb
+D:\2013\Lam_Viec_Pitagon\EncodeAnđecode2\EncodeAnđecode2\obj\Debug\net5.0\EncodeAnđecode2.genruntimeconfig.cache
